@@ -10,4 +10,4 @@ The original project was not stored in a source code versioning system and Paral
 
 If you are interested in the source code to the Spin2 compiler or the debug window functionality, you may find it in the [PNut Repository](https://github.com/parallaxinc/P2_PNut_Public).
 
-_Updated 01/04/2022_
+_Updated 01/05/2022_
